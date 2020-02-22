@@ -137,7 +137,7 @@ Please note that some settings may need to be adjusted depending on your slicer 
 I got the idea for Octolapse when I attempted to manually make a [stabilized timelapse](https://youtu.be/xZlP4vpAKNc) by hand editing my GCode files.  To accomplish this I used the excellent and simple [GCode System Commands](https://github.com/kantlivelong/OctoPrint-GCodesystemCommands) plugin.  The timelapse worked great, but it required a lot of effort which I didn't want to put in every time.  I received several requests for instructions on how to create a stabilized timelapse, so I decided to give plugin development a go.  I've never done one before (or programmed python or knockout or anything open source), but figured I could contribute something good to the community.  This is my "thank you" to all of the makers out there who have contributed your time and effort!
 
 ## Report Problems
-If you think you have found a bug in Octolapse, please create an issue on the official github.com page [here](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/issues/new).  In order to have your issue handled properly and quickly, please completely
+If you think you have found a bug in Octolapse, please create an issue on the official github.com page [here](https://github.com/FormerLurker/Octolapse/issues/new).  In order to have your issue handled properly and quickly, please completely
 
 ## License
 View the [Octolapse license](https://github.com/FormerLurker/Octolapse/blob/master/LICENSE).
