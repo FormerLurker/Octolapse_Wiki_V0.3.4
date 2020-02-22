@@ -17,7 +17,7 @@ Octolapse moves the print bed and extruder into position before taking each snap
 **Important**:  *Octolapse requires OctoPrint v1.3.9 or higher and some features require OctoPrint v1.3.10rc1 or above.*  You can check your OctoPrint version by looking in the lower left hand corner of your OctoPrint server home page.
 
 # Recent Changes
-If you are upgrading from [v0.3.1](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/releases/tag/v0.3.1), please read the [v0.3.4 release notes](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/releases/tag/v0.3.4), a lot has changed.  If you've had trouble running Octolapse in the past, you just might want to try it again!
+If you are upgrading from [v0.3.1](https://github.com/FormerLurker/Octolapse/releases/tag/v0.3.1), please read the [v0.3.4 release notes](https://github.com/FormerLurker/Octolapse/releases/tag/v0.3.4), a lot has changed.  If you've had trouble running Octolapse in the past, you just might want to try it again!
 
 # What Octolapse Does
 
@@ -70,8 +70,6 @@ If you are upgrading from [v0.3.1](https://github.com/FormerLurker/Octolapse_Wik
 # Installation
 
 [Read the installation instructions.](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/wiki/Installation)
-
-After installation, [checkout the project's wiki pages](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/wiki).  It never hurts to know more about what you're doing!
 
 # Usage
 [Learn how to start your first print here.](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/wiki/Usage)  It's a good idea to read about the settings before using Octolapse.  I also recommend you [watch this brief tutorial](https://youtu.be/sDyg9lMqMG8), which explains how to configure your printer profile for use with the new **High Quality** snapshot profile.
@@ -142,7 +140,7 @@ I got the idea for Octolapse when I attempted to manually make a [stabilized tim
 If you think you have found a bug in Octolapse, please create an issue on the official github.com page [here](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/issues/new).  In order to have your issue handled properly and quickly, please completely
 
 ## License
-View the [Octolapse license](https://github.com/FormerLurker/Octolapse_Wiki_V0.3.4/blob/master/LICENSE).
+View the [Octolapse license](https://github.com/FormerLurker/Octolapse/blob/master/LICENSE).
 
 <hr/>
 
